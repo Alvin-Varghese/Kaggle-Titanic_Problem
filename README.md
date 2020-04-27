@@ -21,6 +21,6 @@ Since this was a Jupyter notebook implemetation, no libraries need to be install
  - *matplotlib.pyplot*
  - *sympy*
 
-### License
------
-Apache 2.0
+License
+------
+Apache 2.0 
